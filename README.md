@@ -1,6 +1,6 @@
 ![logo](https://github.com/Avneesh12/Avneesh12/blob/main/baner1.png)
 <h1 align="center">Hi 👋, I'm Avneesh Kumar</h1>
-<h3 align="center">A beginner full stack developer from Haridwar (India)</h3>
+<h3 align="center">A full stack developer from Haridwar (India)</h3>
 <img align="right" width="400" alt = "Coding" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" />
 
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://avneesh-portfolio.netlify.app/](https://avneesh-portfolio.netlify.app/)
 
-- 💬 Ask me about **python , django , react**
+- 💬 Ask me about **python , django ,angular, react**
 
 - 📫 How to reach me **avnishldh97@gmail.com**
 
